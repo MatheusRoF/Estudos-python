@@ -1,6 +1,6 @@
 # Repositório de Estudos em Python
 
-Este repositório foi criado para armazenar materiais e projetos relacionados aos estudos da linguagem de programação Python. Se você está começando sua jornada de aprendizado em Python ou é um programador experiente em busca de recursos adicionais, este é o lugar certo para você.
+Este repositório foi criado para armazenar materiais e projetos relacionados aos estudos da linguagem de programação Python.
 
 ## Objetivo
 
