@@ -1,6 +1,6 @@
 # Repositório de Estudos em Python
 
-Este repositório foi criado para armazenar materiais e projetos relacionados aos estudos da linguagem de programação Python.
+Este repositório foi criado para armazenar materiais e projetos relacionados aos estudos da linguagem de programação Python usando jupyter notebook.
 
 ## Objetivo
 
